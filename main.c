@@ -34,7 +34,6 @@ void menu()
     
 }   
 
-
 void password(int password_length , int choice , int counter , FILE *file)
 {
     char list[] = "1234567890qwertyuiopasdfghjklzxcvbnm,.<>/?;:'|{}[]!@#$^&*()_+=/*\"";
@@ -63,7 +62,6 @@ void password(int password_length , int choice , int counter , FILE *file)
         }
     }
 }
-
 
 int main()
 {
